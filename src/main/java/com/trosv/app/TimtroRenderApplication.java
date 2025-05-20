@@ -14,6 +14,6 @@ public class TimtroRenderApplication {
 
     @GetMapping("/")
     public String home() {
-        return "Chào mừng đến với ứng dụng tìm trọ thông minh!";
+        return "Ứng dụng tìm trọ thông minh chạy trên Render!";
     }
 }
